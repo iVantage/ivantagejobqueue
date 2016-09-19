@@ -1,0 +1,26 @@
+{
+    "name": "ivantage/ivantagejobqueue",
+    "description": "iVantage Job Queue",
+    "version": "1.0.0",
+    "keywords": [
+        "zend",
+        "job",
+        "queue"
+    ],
+    "homepage": "http://ivantagehealth.com/",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "~2.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "IvantageJobQueue": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
