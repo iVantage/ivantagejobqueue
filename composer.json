@@ -11,7 +11,6 @@
     "require": {
         "php": ">=5.3.3",
         "zendframework/zend-mvc": "^3.1",
-        "zendframework/zend-db": "^2.11",
         "zendframework/zend-component-installer": "^1.1"
     },
     "require-dev": {
