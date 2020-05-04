@@ -1,15 +1,11 @@
 <?php
 
-use Zend\Db\Adapter\Adapter;
-
 return array(
-
 	'controllers' => array(
 		'invokables' => array(
 			'IvantageJobQueue\Controller\JobQueue' => 'IvantageJobQueue\Controller\JobQueueController'
 		)
 	),
-	
 	'router' => array(
 		'routes' => array(
 			'job-queue' => array(
@@ -24,7 +20,6 @@ return array(
 			)
 		)
 	),
-
 	'view_manager' => array(
 		'strategies' => array(
 			'ViewJsonStrategy'
