@@ -1,7 +1,6 @@
 {
     "name": "ivantage/ivantagejobqueue",
     "description": "iVantage Job Queue",
-    "version": "1.0.0",
     "keywords": [
         "zend",
         "job",
