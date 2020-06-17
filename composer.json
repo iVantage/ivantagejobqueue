@@ -9,7 +9,7 @@
     "homepage": "http://ivantagehealth.com/",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zend-component-installer": "^2.1",
+        "zendframework/zend-component-installer": "^1.1",
         "zendframework/zend-mvc": "^3.1"
     },
     "require-dev": {
