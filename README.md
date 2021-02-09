@@ -1,5 +1,5 @@
 # ivantagejobqueue
-> A ZF2 module for creating abstract Zend Server Job Queue tasks based on
+> A Laminas module for creating abstract Zend Server Job Queue tasks based on
 [Kevin Schroeder's implementation](http://www.eschrade.com/page/queue-introduction-zend-server-queue-4b8eef5c/)
 
 ## Installation

@@ -4,7 +4,7 @@ namespace IvantageJobQueue\Controller;
 
 use IvantageJobQueue\Tasks\AbstractJobQueueTask;
 
-use Zend\Mvc\Controller\AbstractActionController;
+use Laminas\Mvc\Controller\AbstractActionController;
 use ZendJobQueue;
 use Exception;
 
